@@ -1,6 +1,6 @@
 {
     "name": "hugo-theme-tailwindcss-starter",
-    "version": "0.4.0",
+    "version": "0.0.0",
     "description": "Starter files for a Hugo theme with Tailwindcss",
     "main": "index.js",
     "repository": "https://github.com/eamirgh/hugo-theme-tailwindcss-starter",
