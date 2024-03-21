@@ -9,8 +9,22 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: [
-        '"Inter var", sans-serif',]
-    },
+          "Inter",
+          "Vazirmatn",
+          "system-ui",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "Segoe UI",
+          "Roboto",
+          "Helvetica Neue",
+          "Noto Sans",
+          "sans-serif",
+          "Apple Color Emoji",
+          "Segoe UI Emoji",
+          "Segoe UI Symbol",
+          "Noto Color Emoji",
+      ],
+  },
     extend: {},
   },
   plugins: [
