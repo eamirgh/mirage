@@ -7,6 +7,10 @@ module.exports = {
     "./content/**/*.html"
   ],
   theme: {
+    fontFamily: {
+      sans: [
+        '"Inter var", sans-serif',]
+    },
     extend: {},
   },
   plugins: [
