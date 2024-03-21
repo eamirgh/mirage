@@ -1,5 +1,5 @@
 ---
-author: Dirk Olbrich
+author: Amir Ghaffari Heravi
 title: Lorem Markdownum
 date: 2021-01-07
 ---

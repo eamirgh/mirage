@@ -1,0 +1,14 @@
+# Configuration
+baseURL: "https://example.com/"
+title: "Mirage"
+
+defaultContentLanguage: en
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.112.0"
+
+  workspace: hugo.work
+  imports:
+    - path: github.com/eamirgh/mirage
